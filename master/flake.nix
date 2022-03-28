@@ -11,7 +11,6 @@
   inputs.src-nimagehide-master.ref   = "refs/heads/master";
   inputs.src-nimagehide-master.owner = "MnlPhlp";
   inputs.src-nimagehide-master.repo  = "nimagehide";
-  inputs.src-nimagehide-master.dir   = "";
   inputs.src-nimagehide-master.type  = "github";
   
   inputs."stb_image".owner = "nim-nix-pkgs";
